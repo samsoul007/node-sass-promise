@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/samsoul007/node-sass-promise#readme",
   "dependencies": {
-    "node-sass": "^4.12.0"
+    "node-sass": "^8.0.0"
   }
 }
